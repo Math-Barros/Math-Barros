@@ -38,8 +38,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeanjacques10&hide=html,TSQL,CSS&layout=compact&count_private=true" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=jjeanjacques10&show_icons=true&count_private=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Barros&hide=html,TSQL,CSS&layout=compact&count_private=true" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Math-Barros&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
