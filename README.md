@@ -18,7 +18,7 @@
 <br />
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem-khaki.vercel.app)](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
+[<img src="https://novatorem-git-master.math-barros.vercel.app" alt="Math-Barros Spotify Playing" width="350" />](https://open.spotify.com/playlist/7mk5JYJwZ9N7TkQImkg17V?si=fMiDQXNeTLel7NZG7xnzYg)
 
 
 ### My skills:
