@@ -5,9 +5,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: GET A JOB ☠️
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Math-Barros Spotify Playing" width="350" />](https://open.spotify.com/playlist/7mk5JYJwZ9N7TkQImkg17V?si=fMiDQXNeTLel7NZG7xnzYg)
-
 <br />
 
 ### Connect with me:
