@@ -8,6 +8,8 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Math-Barros Spotify Playing" width="350" />](https://open.spotify.com/playlist/7mk5JYJwZ9N7TkQImkg17V?si=fMiDQXNeTLel7NZG7xnzYg)
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="Math-Barros | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -17,7 +19,10 @@
 [<img align="left" alt="Math-Barros | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Math-Barros | Postman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />][postman]
 
-<br />
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Math-Barros Spotify Playing" width="350" />](https://open.spotify.com/playlist/7mk5JYJwZ9N7TkQImkg17V?si=fMiDQXNeTLel7NZG7xnzYg)
+
 
 ### My skills:
 <img align="left" alt="Math-Barros | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
