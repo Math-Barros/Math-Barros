@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: GET A JOB ☠️
 
-<br />
 
 ### Connect with me:
 
@@ -16,6 +15,7 @@
 [<img align="left" alt="Math-Barros | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Math-Barros | Postman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />][postman]
 
+<br />
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Math-Barros Spotify Playing" width="350" />](https://open.spotify.com/playlist/7mk5JYJwZ9N7TkQImkg17V?si=fMiDQXNeTLel7NZG7xnzYg)
