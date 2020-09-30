@@ -18,7 +18,7 @@
 <br />
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotify-readme.math-barros.vercel.app/)](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
+[<img src="https://spotify-readme-ten.vercel.app" alt="Math-Barros Spotify Playing" width="350" />](https://open.spotify.com/playlist/7mk5JYJwZ9N7TkQImkg17V?si=fMiDQXNeTLel7NZG7xnzYg)
 
 
 ### My skills:
