@@ -27,6 +27,8 @@
 <img align="left" alt="Math-Barros | CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
 <img align="left" alt="Math-Barros | JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="Math-Barros | Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />
+<img align="left" alt="Math-Barros | Cisco" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cisco.svg" />
+
 <br />
 <br />
 
