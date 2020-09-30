@@ -18,7 +18,7 @@
 <br />
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Math-Barros Spotify Playing" width="350" />](https://open.spotify.com/playlist/7mk5JYJwZ9N7TkQImkg17V?si=fMiDQXNeTLel7NZG7xnzYg)
+[![Spotify](https://spotify-readme.math-barros.vercel.app/)](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
 
 
 ### My skills:
