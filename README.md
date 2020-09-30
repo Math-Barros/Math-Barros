@@ -19,7 +19,14 @@
 
 <br />
 
-### My skills: <br/> <br/> ![Python](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg) ![Flutter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg) ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) ![Spring](https://img.shields.io/badge/-Spring-00d10d?style=flat&logoColor=white&logo=spring) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
+### My skills:
+[<img align="left" alt="Math-Barros | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+[<img align="left" alt="Math-Barros | Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
+[<img align="left" alt="Math-Barros | Spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />][spring]
+[<img align="left" alt="Math-Barros | HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][html5]
+[<img align="left" alt="Math-Barros | CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][css3]
+[<img align="left" alt="Math-Barros | JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][javascript]
+[<img align="left" alt="Math-Barros | Kotlin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />][kotlin]
 
 <br />
 <br />
