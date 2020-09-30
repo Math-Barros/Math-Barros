@@ -21,6 +21,7 @@
 
 ### My skills:
 <img align="left" alt="Math-Barros | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="Math-Barros | Flutter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
 <img align="left" alt="Math-Barros | Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <img align="left" alt="Math-Barros | Spring" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg" />
 <img align="left" alt="Math-Barros | HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
