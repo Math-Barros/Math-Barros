@@ -14,6 +14,7 @@
 [<img align="left" alt="Math-Barros | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Math-Barros | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Math-Barros | Postman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />][postman]
+[<img align="left" alt="Math-Barros | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -51,4 +52,5 @@
 [instagram]: https://www.instagram.com/math__barros
 [linkedin]: https://www.linkedin.com/in/matheus-barros-a1646715a
 [postman]: https://explore.postman.com/Math-Barros
+[stackoverflow]: https://stackoverflow.com/users/14404242/matheus-barros?tab=profile
 
