@@ -49,7 +49,7 @@
 [fiap]: https://www.fiap.com.br
 [twitter]: https://twitter.com/math__barros
 [facebook]: https://www.facebook.com/MathBarros711
-[youtube]: https://www.youtube.com/channel/UCP0ggjUZn673rVjo59PoNew
+[youtube]: https://www.youtube.com/user/MsVac9/
 [instagram]: https://www.instagram.com/math__barros
 [linkedin]: https://www.linkedin.com/in/matheus-barros-a1646715a
 [postman]: https://explore.postman.com/Math-Barros
