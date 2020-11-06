@@ -2,7 +2,7 @@
 
 <p align="right">
   <a href="">
-    <img src="https://raw.githubusercontent.com/jjeanjacques10/Math-Barros/master/bat.gif" width="300px">
+    <img src="https://media.giphy.com/media/11UhXwm8Ipd9C/source.gif" width="40" height="40" />
   </a>
 </p>
 
