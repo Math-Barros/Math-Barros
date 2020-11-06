@@ -1,10 +1,5 @@
 ### Hi there, I'm Matheus 👋
 
-<p align="right">
-  <a href="">
-    <img src="https://media.giphy.com/media/11UhXwm8Ipd9C/source.gif" width="40" height="40" />
-  </a>
-</p>
 
 - 🔭 Information Systems Student at [FIAP][fiap]!
 - 🌱 I’m currently learning everything 🤣
