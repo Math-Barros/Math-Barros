@@ -1,27 +1,10 @@
 ### Hi there, I'm Matheus 👋
 
-<html>
-  <head>
-    <meta charset="utf-8">
-      <style type="text/css">
-        #imagem{
-          float:right;
-        }
-      </style>
-  </head>
 
-  <body>
-    <img src="https://media.giphy.com/media/11ZSwQNWba4YF2/source.gif" width="40" height="40" />
-
-  <p>
-      - 🔭 Information Systems Student at [FIAP][fiap]!
-      - 🌱 I’m currently learning everything 🤣
-      - 👯 I’m looking to collaborate with other content creators
-      - 🥅 2020 Goals: GET A JOB ☠️
-  </p>
-
-  </body>
-
+- 🔭 Information Systems Student at [FIAP][fiap]!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: GET A JOB ☠️
 
 
 ### Connect with me:
