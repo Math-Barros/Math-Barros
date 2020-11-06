@@ -1,5 +1,11 @@
 ### Hi there, I'm Matheus 👋
 
+<p align="right">
+  <a href="">
+    <img src="https://raw.githubusercontent.com/jjeanjacques10/Math-Barros/master/bat.gif" width="300px">
+  </a>
+</p>
+
 - 🔭 Information Systems Student at [FIAP][fiap]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
