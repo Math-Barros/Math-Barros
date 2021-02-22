@@ -4,7 +4,6 @@
 - 🔭 Information Systems Student at [FIAP][fiap]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: GET A JOB ☠️
 
 
 ### Connect with me:
