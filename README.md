@@ -40,8 +40,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Barros&hide=html,TSQL,CSS&layout=compact&count_private=true" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Math-Barros&show_icons=true&count_private=true" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Math-Barros&theme=tokyonight&layout=compact" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Math-Barros&theme=tokyonight&layout=compact" /></td>
     </tr>   
   </table>
 </center>
