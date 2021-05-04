@@ -5,9 +5,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 
-
-### Connect with me:
-
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathbarros/)](https://www.linkedin.com/in/mathbarros/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/Math-Barros/)](https://github.com/Math-Barros/) [![Facebook](https://img.shields.io/badge/-facebook-0077B5?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/MathBarros711/)](https://www.facebook.com/MathBarros711/) 
 
 <br />
