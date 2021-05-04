@@ -8,13 +8,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Math-Barros | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Math-Barros | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Math-Barros | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Math-Barros | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Math-Barros | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Math-Barros | Postman" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />][postman]
-[<img align="left" alt="Math-Barros | StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathbarros/)](https://www.linkedin.com/in/mathbarros/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/Math-Barros/)](https://github.com/Math-Barros/) [!/[YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A?view_as=subscriber)](https://www.youtube.com/channel/UCdmQOk2zNiiPlOc0p-Mtj5A?view_as=subscriber) [![Facebook](https://img.shields.io/badge/-facebook-242A2D?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/MathBarros711/)](https://www.facebook.com/MathBarros711/) 
 
 <br />
 
