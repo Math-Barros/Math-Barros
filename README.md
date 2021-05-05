@@ -1,5 +1,6 @@
 ### Hi there, I'm Matheus 👋
-
+<p align="left"> 
+I'm a student and a technical support analyst currently, I'm looking for a job as a developer or data analyst. <br> <br>
 
 - 🔭 Information Systems Student at [FIAP][fiap]!
 - 🌱 I’m currently learning everything 🤣
@@ -22,10 +23,6 @@
 ### Spotify Playing 🎧
 [<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Math-Barros Spotify Playing" width="500" />](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
 
-<p align="left"> 
-My name is Matheus Barros, I'm a student and a technical support analyst currently, I'm looking for a job as a developer or data analyst. <br> <br>
-
-
 #### 🛠 Tools
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?style=flat&logoColor=white&logo=microsoft-office) 
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logoColor=white&logo=git) 
@@ -43,7 +40,6 @@ My name is Matheus Barros, I'm a student and a technical support analyst current
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37726?style=flat&logoColor=white&logo=jupyter) 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-20D68B?style=flat&logoColor=white&logo=pycharm) 
 
-
 <br />
 <br />
 
@@ -57,5 +53,3 @@ My name is Matheus Barros, I'm a student and a technical support analyst current
 </center>
 
 [fiap]: https://www.fiap.com.br
-
-
