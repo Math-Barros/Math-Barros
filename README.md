@@ -35,6 +35,14 @@ My name is Matheus Barros, I'm a student and a technical support analyst current
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-0000ff?style=flat&logoColor=white&logo=adobe-photoshop) 
 ![Spring](https://img.shields.io/badge/-Spring-00d10d?style=flat&logoColor=white&logo=spring)
 
+#### 🏗 IDEs
+![VS Code](https://img.shields.io/badge/-Visual_Studio_Code-1880C6?style=flat&logoColor=white&logo=visual-studio)
+![Eclipse](https://img.shields.io/badge/-Eclipse-41327C?style=flat&logoColor=white&logo=eclipse) 
+![Oracle SQL Developer](https://img.shields.io/badge/-Oracle_SQL_Developer-95AFCB?style=flat&logoColor=white&logo=oracle) 
+![Xcode](https://img.shields.io/badge/-Xcode-529EFF?style=flat&logoColor=white&logo=xcode) 
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37726?style=flat&logoColor=white&logo=jupyter) 
+![PyCharm](https://img.shields.io/badge/-PyCharm-20D68B?style=flat&logoColor=white&logo=pycharm) 
+
 
 <br />
 <br />
