@@ -7,13 +7,6 @@
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathbarros/)](https://www.linkedin.com/in/mathbarros/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/Math-Barros/)](https://github.com/Math-Barros/) [![Facebook](https://img.shields.io/badge/-facebook-0077B5?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/MathBarros711/)](https://www.facebook.com/MathBarros711/) 
 
-
-### Spotify Playing 🎧
-[<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Math-Barros Spotify Playing" width="500" />](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
-
-<p align="left"> 
-My name is Matheus Barros, I'm a student and a technical support analyst currently, I'm looking for a job as a developer or data analyst. <br> <br>
-
 ### My skills:
 
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) 
@@ -25,6 +18,13 @@ My name is Matheus Barros, I'm a student and a technical support analyst current
 ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) 
 ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
+
+### Spotify Playing 🎧
+[<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Math-Barros Spotify Playing" width="500" />](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
+
+<p align="left"> 
+My name is Matheus Barros, I'm a student and a technical support analyst currently, I'm looking for a job as a developer or data analyst. <br> <br>
+
 
 #### 🛠 Tools
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?style=flat&logoColor=white&logo=microsoft-office) 
