@@ -20,7 +20,7 @@ My name is Matheus Barros, I'm a student and a technical support analyst current
 
 #### 🛠 Multimedia Tools
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?style=flat&logoColor=white&logo=microsoft-office) 
-![Adobe After Effects](https://img.shields.io/badge/-Adobe_after_effects-f79500?style=flat&logoColor=white&logo=adobe-after-effects) 
+![Adobe After Effects](https://img.shields.io/badge/-Adobe_after_effects-993399?style=flat&logoColor=white&logo=adobe-after-effects) 
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-f73163?style=flat&logoColor=white&logo=adobe-photoshop) 
 
 
