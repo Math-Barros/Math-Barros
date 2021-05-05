@@ -18,6 +18,12 @@ My name is Matheus Barros, I'm a student and a technical support analyst current
 
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![Swift](https://img.shields.io/badge/-Swift-ffdd19?style=flat&logoColor=white&logo=swift&color=FFA500) ![Flutter](https://img.shields.io/badge/-flutter-45D1FD?style=flat&logoColor=white&logo=flutter) ![Cisco](https://img.shields.io/badge/-cisco-FFFAFA?style=flat&logoColor=blue&logo=cisco) ![PHP](https://img.shields.io/badge/-php-7478AE?style=flat&logoColor=white&logo=php) ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) ![Spring](https://img.shields.io/badge/-Spring-00d10d?style=flat&logoColor=white&logo=spring) ![HTML](https://img.shields.io/badge/-HTML-ff0d00?style=flat&logoColor=white&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-196eff?style=flat&logoColor=white&logo=css3) <br/> ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript) ![Docker](https://img.shields.io/badge/-docker-1090D1?style=flat&logoColor=white&logo=docker) 
 
+#### 🛠 Multimedia Tools
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?style=flat&logoColor=white&logo=microsoft-office) 
+![Adobe After Effects](https://img.shields.io/badge/-Adobe_after_effects-f79500?style=flat&logoColor=white&logo=adobe-after-effects) 
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-f73163?style=flat&logoColor=white&logo=adobe-photoshop) 
+
+
 <br />
 <br />
 
@@ -31,11 +37,5 @@ My name is Matheus Barros, I'm a student and a technical support analyst current
 </center>
 
 [fiap]: https://www.fiap.com.br
-[twitter]: https://twitter.com/math__barros
-[facebook]: https://www.facebook.com/MathBarros711
-[youtube]: https://www.youtube.com/user/MsVac9/
-[instagram]: https://www.instagram.com/math__barros
-[linkedin]: https://www.linkedin.com/in/matheus-barros-a1646715a
-[postman]: https://explore.postman.com/Math-Barros
-[stackoverflow]: https://stackoverflow.com/users/14404242/matheus-barros?tab=profile
+
 
