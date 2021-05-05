@@ -12,7 +12,7 @@
 [<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Math-Barros Spotify Playing" width="500" />](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
 
 <p align="left"> 
-My name is Matheus Barros, I'm a SI student and a technical support analyst currently, I'm looking for a job as a developer or data analyst. <br> <br>
+My name is Matheus Barros, I'm a student and a technical support analyst currently, I'm looking for a job as a developer or data analyst. <br> <br>
 
 ### My skills:
 
