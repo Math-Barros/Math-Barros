@@ -13,7 +13,7 @@ I'm a student and a technical support analyst currently, I'm looking for a job a
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) 
 ![Swift](https://img.shields.io/badge/-Swift-ffdd19?style=flat&logoColor=white&logo=swift&color=FFA500) 
 ![Flutter](https://img.shields.io/badge/-flutter-45D1FD?style=flat&logoColor=white&logo=flutter) 
-![Kotlin](https://img.shields.io/badge/-kotlin-FFFAFA?style=flat&logoColor=white&logo=kotlin) 
+![Kotlin](https://img.shields.io/badge/-kotlin-993399?style=flat&logoColor=white&logo=kotlin) 
 ![Cisco](https://img.shields.io/badge/-cisco-FFFAFA?style=flat&logoColor=blue&logo=cisco) 
 ![PHP](https://img.shields.io/badge/-php-7478AE?style=flat&logoColor=white&logo=php)
 ![Java](https://img.shields.io/badge/-Java-ff961f?style=flat&logoColor=white&logo=java) 
