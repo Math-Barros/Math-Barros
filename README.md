@@ -10,7 +10,7 @@ I'm a student and a technical support analyst currently, I'm looking for a job a
 
 ### My skills:
 
-![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) 
+![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python&link=https://www.python.org/) 
 ![Swift](https://img.shields.io/badge/-Swift-ffdd19?style=flat&logoColor=white&logo=swift&color=FFA500) 
 ![Flutter](https://img.shields.io/badge/-flutter-45D1FD?style=flat&logoColor=white&logo=flutter) 
 ![Cisco](https://img.shields.io/badge/-cisco-FFFAFA?style=flat&logoColor=blue&logo=cisco) 
