@@ -1,6 +1,6 @@
 ### Hi there, I'm Matheus 👋
 <p align="left"> 
-I'm a Computer Forensic Analyst currently, I'm looking for a job as a developer or data analyst. <br> <br>
+I'm a Developer and Computer Forensic Analyst with a year of experience. Information security enthusiast. <br> <br>
 
 - 🔭 Information Systems Student at [FIAP][fiap]!
 - 🌱 I’m currently learning everything 🤣
