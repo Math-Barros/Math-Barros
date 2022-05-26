@@ -1,6 +1,6 @@
 ### Hi there, I'm Matheus 👋
 <p align="left"> 
-I'm a student and a technical support analyst currently, I'm looking for a job as a developer or data analyst. <br> <br>
+I'm a Computer Forensic Analyst currently, I'm looking for a job as a developer or data analyst. <br> <br>
 
 - 🔭 Information Systems Student at [FIAP][fiap]!
 - 🌱 I’m currently learning everything 🤣
