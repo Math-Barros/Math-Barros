@@ -21,7 +21,7 @@ I'm a Developer and Computer Forensic Analyst with a year of experience. Informa
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffdd19?style=flat&logoColor=white&logo=javascript)
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Math-Barros Spotify Playing" width="500" />](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
+[<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Math-Barros Spotify Playing" width="1000" />](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
 
 #### 🛠 Tools
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-dc5400?style=flat&logoColor=white&logo=microsoft-office) 
