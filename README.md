@@ -101,7 +101,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Math-Barros/Math-Barros/output/snake.svg" alt="Snake animation" />
-
-###
