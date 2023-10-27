@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/math__barros" target="blank"><img src="https://img.shields.io/twitter/follow/math__barros?logo=twitter&style=for-the-badge" alt="math__barros" /></a> </p>
 
+### Spotify Playing 🎧
+[<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Math-Barros Spotify Playing" width="1000" />](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/math__barros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="math__barros" height="30" width="40" /></a>
