@@ -22,12 +22,12 @@ ________________________________________________________________________________
 
  ### Dev_Quote
  
- <img align="center" float="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+ <img align="center" float="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
 
  _______________________________________________________________________________________________________________________________________________________
 
  ### Spotify Playing 🎧 
  
- [<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Math-Barros Spotify Playing" width="1000"/>](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
+ [<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Math-Barros Spotify Playing" width="100%"/>](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
 
 
