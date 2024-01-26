@@ -17,7 +17,7 @@ ________________________________________________________________________________
  
 
 ### Spotify Playing 🎧 
-[<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Math-Barros Spotify Playing" width="620" />](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
+[<img src="https://novatorem-khaki.vercel.app/api/spotify.py" alt="Math-Barros Spotify Playing" width="620" height="150px"/>](https://open.spotify.com/user/223ehub556bcyvrs42spz755i)
 
 ________________________________________________________________________________________________________________________________________________________
 
