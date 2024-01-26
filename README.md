@@ -8,9 +8,9 @@ ________________________________________________________________________________
  
  ### <Dev_Quote>
  
- <img align="right" float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Barros&theme=dracula&hide_langs_below=1" />
+ <img align="right" float="right" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Barros&theme=dracula&hide_langs_below=1" />
 
- <img align="left" float="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+ <img align="left" float="left" height="150px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
  _______________________________________________________________________________________________________________________________________________________
 
