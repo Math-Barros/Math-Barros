@@ -10,7 +10,8 @@ ________________________________________________________________________________
  
  <img align="right" float="right" height="350px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math-Barros&theme=dracula&hide_langs_below=1" />
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ <img align="left" float="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
  _______________________________________________________________________________________________________________________________________________________
 
  
